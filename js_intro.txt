@@ -1,0 +1,55 @@
+//--------------------------------------------------------------------------------------------
+//--------------------------------JAVASCRIPT INTRODUCTION-------------------------------------
+//--------------------------------------------------------------------------------------------
+
+
+//javascript is jit(just in time)  it means here javascript is both compiler and interpretted language
+
+// variables in javascript
+// let, const, var
+// try to avoid var and use let instead of var
+
+//------------var------------
+// scope of var variable is function scope
+//Redclarion and initalization is allowed
+// if variable is not initialzed then by default var datatype is assigned to it
+
+//---------------------------
+//------------let------------ 2015 es6 launching of let
+//scope of let variable is block
+// Redclarion is not allowed re initalization is allowed
+//initial value of let is ?
+//--------------------------
+
+//---------const----------
+//Redclarion and re initalization is not allowed is here
+//scope is similar as let 
+
+// javascript is loosly typed and dyanmically typed;
+// loosly typed 
+// strictly typed    
+// dynamically typed
+// statically typed
+//---------------------------
+
+//what is hoisting in js???
+//Difference b/w undefined and Null??
+//---------------------------------
+//primitive datatype is immutable in js
+//Only camelCase is used in JS
+//_ underscore is also a valid variable
+// keyword can't be used as a variable
+//Javascript tutorials of w3school homework
+//what is template litreals???
+
+
+//function
+
+
+
+return a value from => arrow function  how many ways???
+
+//switch case??
+
+
+

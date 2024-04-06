@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Handling</title>
+</head>
+<body>
+    <div>
+        <form onsubmit="submitForm(event)">
+            <label for="name">First Name</label>
+            <input type="text" name="FirstName" id="name" onkeydown="firstNameChange(event)" placeholder="Enter Your First Name"><br><br>
+            <label for="lname">Last Name</label>
+            <input type="text" name="LastName" id="lname" placeholder="Enter Your Last Name"><br><br>
+            <label for="name">Age</label>
+            <input type="number" name="age" placeholder="Enter Your Age"> <br> <br>
+            <label for="name">Hobbies</label>
+            <input type="Checkbox" name="hobbies" value="Web Development">Web Development
+            <input type="Checkbox" name="hobbies" value="C Programming">C Programming
+            <input type="Checkbox" name="hobbies" value="Data Structure">Data Structure <br><br>
+            <button>Submit</button>
+        </form>        
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

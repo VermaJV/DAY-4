@@ -1,0 +1,15 @@
+-----------what is DOM???------------
+//dom is an api which is used to interact with the js.
+//dom is a tree like structure
+
+//DOM stands for Document Object Model. It is a programming interface that allows us to create, change, or remove elements from the document. We can also add events to these elements to make our page more dynamic. The DOM views an HTML document as a tree of nodes.
+
+difference between div copy and shallow copy???
+
+What is node and what is an element???
+
+What is event delegation in js???
+
+what is higher order function???
+
+validation in js???
